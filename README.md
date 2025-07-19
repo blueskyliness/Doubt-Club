@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.postimg.cc/G4GzdR0q/Doubt-MC.png" alt="Doubt Club MC Logo" width="1000">
+  <img src="https://i.postimg.cc/G4GzdR0q/Doubt-MC.png" alt="Doubt Club MC Logo" width="400">
 </p>
 
 <h1 align="center">THE DOUBT CLUB (TDC)</h1>
