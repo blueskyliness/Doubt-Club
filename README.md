@@ -5,11 +5,6 @@
 <h1 align="center">THE DOUBT CLUB (TDC)</h1>
 <h3 align="center">"The Club Comes First"</h3>
 
-<p align="center">
-    <img src="https://img.shields.io/badge/Club-The Doubt Club-black?style=for-the-badge" alt="Club Name">
-    <img src="https://img.shields.io/badge/Chapter-D (Doubt)-grey?style=for-the-badge" alt="Chapter">
-    <img src="https://img.shields.io/badge/Style-1%25er Outlaw-red?style=for-the-badge" alt="Style">
-</p>
 
 > "เราคือกลุ่มคนที่ไม่เชื่อในสิ่งที่คนอื่นเชื่อ แต่เชื่อในวิถีทางและกฎของพี่น้องในคลับเท่านั้น นี่คือจิตวิญญาณของ Outlaw และ 1% โดยแท้จริง"
 
@@ -67,7 +62,7 @@
 
 ---
 
-## 鉄の掟 | กฎเหล็กของคลับ (The Iron Code)
+##  | กฎเหล็กของคลับ (The Iron Code)
 
 นี่คือกฎที่สำคัญที่สุดที่ยึดเหนี่ยวพวกเราไว้ด้วยกัน การละเมิดหมายถึงการทรยศ
 
